@@ -1,5 +1,5 @@
 # WEEK-1
-## Task 1 – Capability Factors (Behavior-Based)
+## Task 1 – Capability Factors 
 - Explains ideas clearly and adapts explanation when questioned  
 - Breaks problems logically and identifies key parts before solving  
 - Moves forward by making reasonable assumptions when information is missing  
@@ -18,7 +18,7 @@
 - Avoids taking decisions or cannot justify their choices  
 - Fails to explain their reasoning or breaks under questioning  
 
-## Task 4 – Evaluation Process (No Marks/Test)
+## Task 4 – Evaluation Process 
 - Give a practical situation and let the candidate respond freely  
 - Ask deep follow-up questions to challenge their thinking  
 - Observe reasoning, assumptions, and decision-making process  
