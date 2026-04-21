@@ -16,3 +16,9 @@ Task 3 - Failure Conditions - 3 situations where a candidate clearly fails
 1. Unwillingness to learn.
 2. Intention is to just 'qualify a round'
 3. Candidate is not self aware.
+
+Task 4 - Evaluation process
+
+1. Spot evaluation using real world case studies.
+2. Evaluating 'what does work culture mean' to each candidate.
+3. One-on-One interview to test the soft skills & body language.
