@@ -1,5 +1,4 @@
-#Week 1
-
+# WEEK-1
 ## Task 1 – Capability Factors (Behavior-Based)
 - Explains ideas clearly and adapts explanation when questioned  
 - Breaks problems logically and identifies key parts before solving  
