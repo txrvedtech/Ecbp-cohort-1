@@ -39,7 +39,49 @@
 - Iterative Improvement Mindset  
   - Introduce feedback or flaws after initial solution  
   - Observe how candidate responds  
-  - Check if they refine or improve their approach  
+  - Check if they refine or improve their approach
+    
+## Task 3 – Failure Conditions
+
+- Inability to Commit to Decisions  
+  - Avoids choosing an approach or frequently changes decisions without reasoning  
+
+- Unaware of Own Assumptions  
+  - Cannot identify or justify assumptions when questioned  
+
+- Superficial Problem Handling  
+  - Jumps to solutions without understanding the problem or exploring root causes  
+
+
+## Task 4 – Evaluation Process
+
+- Step 1: Problem Presentation  
+  - Provide a real-world problem with incomplete information  
+
+- Step 2: Initial Understanding  
+  - Candidate explains their understanding of the problem  
+
+- Step 3: Approach Formation  
+  - Candidate defines a structured plan to solve the problem  
+
+- Step 4: Deep Probing by Reviewer  
+  - Ask questions like:  
+    - Why this approach?  
+    - What assumptions are you making?  
+    - What are alternatives?  
+
+- Step 5: Decision Point  
+  - Introduce multiple options or constraints  
+  - Candidate selects and justifies one approach  
+
+- Step 6: Feedback Injection  
+  - Introduce new constraints or highlight flaws  
+
+- Step 7: Iteration & Refinement  
+  - Candidate improves or adjusts their solution  
+
+- Step 8: Final Explanation  
+  - Candidate summarizes final approach and reasoning  
 
 
 
