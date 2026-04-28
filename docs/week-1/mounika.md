@@ -4,15 +4,29 @@
 
 ### 1. Structured Thinking  
 Able to break the problem into clear steps even if the situation is not fully clear.
-
 ### 2. Understanding Assumptions  
 Able to identify what is being assumed and check if it makes sense before continuing.
-
 ### 3. Decision Making  
 Able to take a decision even when full information is not available.
-
 ### 4. Deep Understanding  
 Able to understand the problem properly instead of just looking at the surface.
-
 ### 5. Improving Step by Step  
 Able to improve the solution based on mistakes, feedback, or new understanding.
+
+
+## Task 2 – Observation Method
+
+### 1. Structured Thinking  
+   Observation: Checks if the person divides the problem into steps before solving.
+
+### 2. Understanding Assumptions  
+   Observation: Checks if the person mentions assumptions and verifies them.
+
+### 3. Decision Making  
+   Observation: Checks if the person takes a decision instead of waiting.
+
+### 4. Deep Understanding  
+   Observation: Checks if the person explains the actual problem, not just surface idea.
+
+### 5. Improving Step by Step  
+   Observation: Checks if the person improves after feedback or mistakes.
