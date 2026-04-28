@@ -1,5 +1,6 @@
 # Week 1 – Framework Building (Evaluation System)
 
+
 ## Task 1 – Capability Factors
 
 1. **Structured Thinking**  
@@ -16,7 +17,7 @@ Able to improve the solution based on mistakes, feedback, or new understanding.
 
 ## Task 2 – Observation Method
 
-1. **Structured Thinking** 
+1. **Structured Thinking**                                                                                                                                        
    Observation: Checks if the person divides the problem into steps before solving.
 3. **Understanding Assumptions**  
    Observation: Checks if the person mentions assumptions and verifies them.
@@ -40,3 +41,19 @@ Able to improve the solution based on mistakes, feedback, or new understanding.
    Focuses only on surface-level solution without understanding the actual problem.
 5. **Ignoring Feedback**  
    Does not improve even after feedback or repeats the same mistakes.
+
+
+## Task 4 – Evaluation Process
+
+1. **Understanding the Problem**  
+   Candidate is given a real-world problem and is allowed to take time to understand it properly.
+2. **Explaining the Approach**  
+   Candidate explains how they plan to solve the problem step by step in their own way.
+3. **Exploring the Thinking**  
+   Reviewer asks questions to understand why the candidate chose that approach and what they are thinking.
+4. **Handling Uncertainty**  
+   Candidate is observed on how they react when they are unsure or when the problem is not fully clear.
+5. **Observing Improvement**  
+   Candidate is given small feedback or hints, and it is checked whether they improve their approach.
+6. **Final Evaluation Based on Behavior**  
+   Evaluation is done based on clarity, decision-making, understanding, and willingness to improve, not based on marks.
