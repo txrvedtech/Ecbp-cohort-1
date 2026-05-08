@@ -50,8 +50,7 @@ What factors you consider
 What you would do if conditions change
 
 
-6)
-During a project, different team members interpret the same requirement in different ways, leading to
+6) During a project, different team members interpret the same requirement in different ways, leading to
 inconsistent outputs.
 What is the most effective way to handle this situation?
 A. Let each team member continue with their approach to save time
@@ -61,15 +60,14 @@ C. Ask the manager to review all outputs at the end
 D. Focus only on your part and ensure your work is correct
 Answer: B
 
-7)
-You have multiple options to choose from, but each has pros and cons.
+7) You have multiple options to choose from, but each has pros and cons.
 How will you decide? (Answer in 2–3 lines)
 ✅ Ideal Answer (covers all 7 signals)
 “I will clearly define the goal and understand the context, then compare options based on key factors like risk, benefit, and constraints. I will choose the most suitable option and adjust my decision if new conditions or limitations arise.”
 
 
-8)
-A person compares multiple options but misunderstands the requirement and ignores current constraints before making a decision.
+
+8) A person compares multiple options but misunderstands the requirement and ignores current constraints before making a decision.
 Which of the following is the most appropriate way to correct this approach and handle similar situations in future?
 
 A. Focus only on comparing more options to improve the decision
@@ -77,15 +75,15 @@ B. First ensure clear understanding of the requirement, consider context and con
 C. Make faster decisions to avoid overthinking
 D. Rely on previous similar decisions without re-evaluating the situation
 
-9)
-A student reads only part of the instructions, assumes the rest, ignores the deadline, and submits the work without reviewing examples.
+
+9) A student reads only part of the instructions, assumes the rest, ignores the deadline, and submits the work without reviewing examples.
 What went wrong in this situation and how should it be handled better in future, especially if time is limited or conditions change?
 (Answer in 2–3 lines)
 ✅ Ideal Answer (Covers all 7 signals)
 “The student failed to fully understand the instructions and ignored important context like deadlines and examples, leading to a poor decision. A better approach is to first ensure complete clarity, consider all requirements, compare possible ways to proceed, and then act. In time-limited or changing situations, prioritizing key instructions and quickly validating the approach can help avoid such mistakes.”
 
-10)
-You need to learn a completely new technical topic in 48 hours for a real work task.
+
+10) You need to learn a completely new technical topic in 48 hours for a real work task.
 
 Choose the most effective approach
 
